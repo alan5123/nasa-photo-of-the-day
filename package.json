@@ -1,7 +1,7 @@
 {
   "name": "nasa-apod",
   "version": "0.1.0",
-"homepage": "http://alan5123.github.io/nasa-photo-of-the-day",
+
   "private": true,
   "dependencies": {
     "axios": "^0.19.2",
@@ -13,6 +13,11 @@
     "reactstrap": "^8.4.1",
     "styled-components": "^5.0.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "url": "git+https://github.com/alan5123/nasa_photo.git"
+  }
+     
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -36,3 +41,4 @@
     ]
   }
 }
+
