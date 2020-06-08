@@ -16,7 +16,7 @@
   "repository": {
     "type": "git",
     "url": "url": "git+https://github.com/alan5123/nasa_photo.git"
-  }
+  },
      
   "scripts": {
     "start": "react-scripts start",
